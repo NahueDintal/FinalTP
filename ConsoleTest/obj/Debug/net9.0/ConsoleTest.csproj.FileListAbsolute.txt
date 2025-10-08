@@ -1,0 +1,6 @@
+/home/nahuedintal/Estudio/FinalTP/ConsoleTest/obj/Debug/net9.0/ConsoleTest.csproj.AssemblyReference.cache
+/home/nahuedintal/Estudio/FinalTP/ConsoleTest/obj/Debug/net9.0/ConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahuedintal/Estudio/FinalTP/ConsoleTest/obj/Debug/net9.0/ConsoleTest.AssemblyInfoInputs.cache
+/home/nahuedintal/Estudio/FinalTP/ConsoleTest/obj/Debug/net9.0/ConsoleTest.AssemblyInfo.cs
+/home/nahuedintal/Estudio/FinalTP/ConsoleTest/obj/Debug/net9.0/ConsoleTest.csproj.CoreCompileInputs.cache
+/home/nahuedintal/Estudio/FinalTP/ConsoleTest/obj/Debug/net9.0/ConsoleTest.sourcelink.json

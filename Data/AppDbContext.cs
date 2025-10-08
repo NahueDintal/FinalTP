@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Core.Entities;
 
 namespace Data;
+
 public class AppDbContext : DbContext
 {
     public DbSet<Producto> Productos { get; set; }

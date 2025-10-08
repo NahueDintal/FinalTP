@@ -4730,19 +4730,19 @@
     ]
   },
   "packageFolders": {
-    "/home/nahue/.nuget/packages/": {}
+    "/home/nahuedintal/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nahue/Estudio/dev/programacion1/FinalTP/Data/Data.csproj",
+      "projectUniqueName": "/home/nahuedintal/Estudio/FinalTP/Data/Data.csproj",
       "projectName": "Data",
-      "projectPath": "/home/nahue/Estudio/dev/programacion1/FinalTP/Data/Data.csproj",
-      "packagesPath": "/home/nahue/.nuget/packages/",
-      "outputPath": "/home/nahue/Estudio/dev/programacion1/FinalTP/Data/obj/",
+      "projectPath": "/home/nahuedintal/Estudio/FinalTP/Data/Data.csproj",
+      "packagesPath": "/home/nahuedintal/.nuget/packages/",
+      "outputPath": "/home/nahuedintal/Estudio/FinalTP/Data/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/nahue/.nuget/NuGet/NuGet.Config"
+        "/home/nahuedintal/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -4754,8 +4754,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/nahue/Estudio/dev/programacion1/FinalTP/Core/Core.csproj": {
-              "projectPath": "/home/nahue/Estudio/dev/programacion1/FinalTP/Core/Core.csproj"
+            "/home/nahuedintal/Estudio/FinalTP/Core/Core.csproj": {
+              "projectPath": "/home/nahuedintal/Estudio/FinalTP/Core/Core.csproj"
             }
           }
         }
