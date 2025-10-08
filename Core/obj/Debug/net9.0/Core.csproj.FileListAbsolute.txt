@@ -24,3 +24,16 @@
 /home/nahuedintal/Estudio/FinalTP/Core/obj/Debug/net9.0/refint/Core.dll
 /home/nahuedintal/Estudio/FinalTP/Core/obj/Debug/net9.0/Core.pdb
 /home/nahuedintal/Estudio/FinalTP/Core/obj/Debug/net9.0/ref/Core.dll
+/home/nahue/Estudio/FinalTP/Core/bin/Debug/net9.0/Core.deps.json
+/home/nahue/Estudio/FinalTP/Core/bin/Debug/net9.0/Core.dll
+/home/nahue/Estudio/FinalTP/Core/bin/Debug/net9.0/Core.pdb
+/home/nahue/Estudio/FinalTP/Core/obj/Debug/net9.0/Core.csproj.AssemblyReference.cache
+/home/nahue/Estudio/FinalTP/Core/obj/Debug/net9.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/nahue/Estudio/FinalTP/Core/obj/Debug/net9.0/Core.AssemblyInfoInputs.cache
+/home/nahue/Estudio/FinalTP/Core/obj/Debug/net9.0/Core.AssemblyInfo.cs
+/home/nahue/Estudio/FinalTP/Core/obj/Debug/net9.0/Core.csproj.CoreCompileInputs.cache
+/home/nahue/Estudio/FinalTP/Core/obj/Debug/net9.0/Core.sourcelink.json
+/home/nahue/Estudio/FinalTP/Core/obj/Debug/net9.0/Core.dll
+/home/nahue/Estudio/FinalTP/Core/obj/Debug/net9.0/refint/Core.dll
+/home/nahue/Estudio/FinalTP/Core/obj/Debug/net9.0/Core.pdb
+/home/nahue/Estudio/FinalTP/Core/obj/Debug/net9.0/ref/Core.dll

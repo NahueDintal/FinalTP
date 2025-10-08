@@ -538,19 +538,19 @@
     ]
   },
   "packageFolders": {
-    "/home/nahuedintal/.nuget/packages/": {}
+    "/home/nahue/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nahuedintal/Estudio/FinalTP/Core/Core.csproj",
+      "projectUniqueName": "/home/nahue/Estudio/FinalTP/Core/Core.csproj",
       "projectName": "Core",
-      "projectPath": "/home/nahuedintal/Estudio/FinalTP/Core/Core.csproj",
-      "packagesPath": "/home/nahuedintal/.nuget/packages/",
-      "outputPath": "/home/nahuedintal/Estudio/FinalTP/Core/obj/",
+      "projectPath": "/home/nahue/Estudio/FinalTP/Core/Core.csproj",
+      "packagesPath": "/home/nahue/.nuget/packages/",
+      "outputPath": "/home/nahue/Estudio/FinalTP/Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/nahuedintal/.nuget/NuGet/NuGet.Config"
+        "/home/nahue/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
