@@ -146,7 +146,6 @@ async Task RegistrarVentaEnBaseDeDatos()
             Detalles = new List<DetalleVenta>()
         };
         
-        // Agregar detalles de venta
         bool continuar = true;
         while (continuar)
         {
@@ -177,10 +176,8 @@ async Task RegistrarVentaEnBaseDeDatos()
             continuar = (Console.ReadLine()?.ToLower() == "s");
         }
         
-        // Calcular total
         venta.Total = venta.Detalles.Sum(d => d.Subtotal);
         
-        // Guardar venta en BD
         context.Ventas.Add(venta);
         await context.SaveChangesAsync();
         
@@ -192,7 +189,6 @@ async Task RegistrarVentaEnBaseDeDatos()
     }
 }
 
-// Tu función original de simulación (sin BD)
 void SimularVenta()
 {
     Console.WriteLine("\n--- SIMULACIÓN DE VENTA ---");
